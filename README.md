@@ -1,2 +1,3 @@
-# DHRUV-DEMO
-THIS IS MY FRIST REPOSITORY.
+# Learn - Demo
+This is My Frist Git Repository.
+Author - Dhruv Patel
